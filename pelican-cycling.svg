@@ -39,8 +39,8 @@
     <path d="m396 421-16-41m255 41-24-77 37-12" stroke="#264b4b" stroke-width="10"/>
     <path d="m643 332 24-7q16-4 20 10" stroke="#264b4b" stroke-width="12"/>
     <path d="M351 380h61" stroke="#264b4b" stroke-width="16"/>
-    <path d="m492 570 34 24m-48-39 14 15" stroke="#264b4b" stroke-width="8"/>
-    <path d="M510 596h34" stroke="#264b4b" stroke-width="8"/>
+    <path d="m492 570 34 24m-34-24-34-24" stroke="#264b4b" stroke-width="8"/>
+    <path d="M510 596h34m-67-50h30" stroke="#264b4b" stroke-width="8"/>
     <g fill="#f8d77b" stroke="#264b4b" stroke-width="4">
       <circle cx="300" cy="570" r="9"/>
       <circle cx="700" cy="570" r="9"/>
@@ -48,7 +48,7 @@
     </g>
   </g>
   <!-- Far leg, tail, and body. -->
-  <path d="m434 376 58 65-56 59 29 7" fill="none" stroke="#d98d45" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m434 376 58 65-56 98 24 7" fill="none" stroke="#d98d45" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="m334 312-55-25 25 57 50 12" fill="#f5f3e9" stroke="#264b4b" stroke-width="5" stroke-linejoin="round"/>
   <path d="M337 288c37-31 91-41 125-72l36 34c-7 44-5 72-33 103-26 29-57 41-92 30-35-11-59-62-36-95Z" fill="#fffdf5" stroke="#264b4b" stroke-width="5"/>
   <!-- Long neck curls up into the head. -->
